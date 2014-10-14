@@ -1,0 +1,1 @@
+/srv/http/menu.cgi
